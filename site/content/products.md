@@ -2,7 +2,7 @@
 title: Products
 type: products
 page: /products.html
-image: /img/products/jumbotron.jpg
+image: /dist/coffee.jpeg
 heading: Amazing coffee
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
