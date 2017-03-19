@@ -2,7 +2,7 @@
 title: Products
 type: products
 page: /products.html
-image: /dist/coffee.jpeg
+image: /dist/cofee2.png
 heading: Amazing coffee
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
